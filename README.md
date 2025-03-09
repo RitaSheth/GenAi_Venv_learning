@@ -1,0 +1,1 @@
+# GenAi_Venv_learning
